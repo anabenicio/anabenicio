@@ -41,6 +41,7 @@
  
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anabenicio&repo=bankline-api)](https://github.com/anabenicio/bankline-api)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anabenicio&repo=QRcode)](https://github.com/anabenicio/QRcode)
   
 
 
