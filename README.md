@@ -41,11 +41,11 @@
  
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anabenicio&repo=bankline-api&theme=tokyonight)](https://github.com/anabenicio/bankline-api)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anabenicio&repo=QRcode)](https://github.com/anabenicio/QRcode)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anabenicio&repo=depesas-pessoais)](https://github.com/anabenicio/depesas-pessoais)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anabenicio&repo=GuiaDePerguntas)](https://github.com/anabenicio/GuiaDePerguntas)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anabenicio&repo=chat)](https://github.com/anabenicio/Chat)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anabenicio&repo=Batalha_Naval_PDS_Cliente)](https://github.com/anabenicio/Batalha_Naval_PDS_Cliente)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anabenicio&repo=QRcode&theme=tokyonight)](https://github.com/anabenicio/QRcode)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anabenicio&repo=depesas-pessoais&theme=tokyonight)](https://github.com/anabenicio/depesas-pessoais)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anabenicio&repo=GuiaDePerguntas&theme=tokyonight)](https://github.com/anabenicio/GuiaDePerguntas)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anabenicio&repo=chat&theme=tokyonight)](https://github.com/anabenicio/Chat)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anabenicio&repo=Batalha_Naval_PDS_Cliente&theme=tokyonight)](https://github.com/anabenicio/Batalha_Naval_PDS_Cliente)
   
 
 
