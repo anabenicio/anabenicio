@@ -40,7 +40,7 @@
 <br>
  
  <div>
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anabenicio&repo=bankline-api)](https://github.com/anabenicio/bankline-api)
+   [![Readme Card](https://bankline-api.vercel.app/api/pin/?username=anabenicio&repo=bankline-api)](https://github.com/anabenicio/bankline-api)
   </div>
 
 
