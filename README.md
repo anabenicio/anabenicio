@@ -42,6 +42,10 @@
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anabenicio&repo=bankline-api)](https://github.com/anabenicio/bankline-api)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anabenicio&repo=QRcode)](https://github.com/anabenicio/QRcode)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anabenicio&repo=depesas-pessoais)](https://github.com/anabenicio/depesas-pessoais)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anabenicio&repo=GuiaDePerguntas)](https://github.com/anabenicio/GuiaDePerguntas)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anabenicio&repo=IntranetMobile)](https://github.com/anabenicio/IntranetMobile)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anabenicio&repo=Batalha_Naval_PDS_Cliente)](https://github.com/anabenicio/Batalha_Naval_PDS_Cliente)
   
 
 
