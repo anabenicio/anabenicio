@@ -40,7 +40,7 @@
 <br>
  
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anabenicio&repo=bankline-api&bg_color=COLOR2)](https://github.com/anabenicio/bankline-api)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anabenicio&repo=bankline-api&theme=tokyonight)](https://github.com/anabenicio/bankline-api)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anabenicio&repo=QRcode)](https://github.com/anabenicio/QRcode)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anabenicio&repo=depesas-pessoais)](https://github.com/anabenicio/depesas-pessoais)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anabenicio&repo=GuiaDePerguntas)](https://github.com/anabenicio/GuiaDePerguntas)
