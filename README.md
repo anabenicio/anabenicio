@@ -7,11 +7,11 @@
 
 <br>
 
-<div>
+
 <a href="https://github.com/anabenicio">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=anabenicio&show_icons=true&theme=tokyonight"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabenicio&layout=compact&langs_count=10&theme=tokyonight"/>
-</div>
+
 <br>
 
 ### Languages and Tools
