@@ -22,6 +22,7 @@
 ### Languages and Tools
 
 <div style="display: inline_block">
+ 
   
   <img align="center" alt="Ana-Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   <img align="center" alt="Ana-Java"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -47,7 +48,7 @@
   
  ### Repo
  
-
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anabenicio&repo=bankline-api&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anabenicio&repo=bankline-api&theme=tokyonight)](https://github.com/anabenicio/bankline-api)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anabenicio&repo=QRcode&theme=tokyonight)](https://github.com/anabenicio/QRcode)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anabenicio&repo=depesas-pessoais&theme=tokyonight)](https://github.com/anabenicio/depesas-pessoais)
