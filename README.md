@@ -44,8 +44,6 @@
  ### Repo
  
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anabenicio&repo=bankline-api&theme=tokyonight)](https://github.com/anabenicio/bankline-api)
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anabenicio&repo=depesas-pessoais&theme=tokyonight)](https://github.com/anabenicio/depesas-pessoais)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anabenicio&repo=GuiaDePerguntas&theme=tokyonight)](https://github.com/anabenicio/GuiaDePerguntas)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anabenicio&repo=chat&theme=tokyonight)](https://github.com/anabenicio/Chat)
